@@ -1,5 +1,5 @@
 ### ARPPU-DAU-MAU-Sticky_Factor
-[https://github.com/RomanD83/ARPPU-DAU-MAU-Sticky_Factor/blob/main/Metrics.pdf]
+[Полный анализ](https://github.com/RomanD83/ARPPU-DAU-MAU-Sticky_Factor/blob/main/Metrics.pdf)
 
 #### Рачет ARPPU.
 
