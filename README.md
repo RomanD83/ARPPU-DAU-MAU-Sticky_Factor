@@ -1,5 +1,7 @@
 ### ARPPU-DAU-MAU-Sticky_Factor
-[Полный анализ](https://github.com/RomanD83/ARPPU-DAU-MAU-Sticky_Factor/blob/main/Metrics.pdf)
+1. [Полный анализ (pdf)](https://github.com/RomanD83/ARPPU-DAU-MAU-Sticky_Factor/blob/main/Metrics.pdf)
+2. [Метрики (.sql)](https://github.com/RomanD83/ARPPU-DAU-MAU-Sticky_Factor/blob/main/Metrics.sql)
+3. [Исходные данные](https://github.com/RomanD83/ARPPU-DAU-MAU-Sticky_Factor/blob/main/bonuscheques_202401151415.csv)
 
 #### Рачет ARPPU.
 
